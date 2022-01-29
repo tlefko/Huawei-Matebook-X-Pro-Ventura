@@ -3,8 +3,8 @@
 # macOS Monterey 
 - BIG SUR HAS BEEN RELEASED
 - Fullly functional Opencore version, working trackpad, touh
-- Using Clover Bootloader
-- Complicated initial install but works flawlessly
+- Using Opencore Bootloader
+
 # Site
 - checkout our official site! https://twortech.wixsite.com/pcmac
 
