@@ -92,5 +92,5 @@ This build is compatible up to Monterey 10.17 (macOS 12)
  # Finished!
  - Congratulations, there really aren't any more steps that are required. Feel free to contact me with any questions. 
 
-# Donations 
+# Donations
 - Send me a coffee lefkotyler@gmail.com
