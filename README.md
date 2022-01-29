@@ -2,7 +2,7 @@
 
 # macOS Monterey 
 - BIG SUR HAS BEEN RELEASED
-- Fullly functional Opencore version, working trackpad, touh
+- Fullly functional Opencore version, working trackpad, touch
 - Using Opencore Bootloader
 
 # Site
