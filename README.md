@@ -94,3 +94,6 @@ This build is compatible up to Monterey 10.17 (macOS 12)
 
 # Donations
 - Send me a coffee lefkotyler@gmail.com
+
+# Feedback
+- Please open an issue to leave comments on the EFI as this is an alpha.
