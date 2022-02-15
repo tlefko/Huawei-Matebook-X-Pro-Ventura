@@ -80,6 +80,7 @@ This build is compatible up to Monterey 10.17 (macOS 12)
  # Credits
 - Original kext authors
 - Opencore
+- Profzei EFI
  
  # Messages and Facetime
  - Gnerate your own Serials, Board Numbers, MLB
