@@ -1,5 +1,5 @@
 # Matebook-X-Pro-2018-Monterey
-- Based on existing work done Matebook-X-Pro-2018 Profzei and 7 collabators. This repository is a modification of this work for those who have isssues with trackpad, bluetooth, or sleep like myself. Many if not most of the files in this repository are DIRECTLY identical from the original repository, even if many of these files are disabled by default in ACPI.
+- Based on existing work done Matebook-X-Pro-2018 Profzei and 7 collabators. This repository is a modification of this work for those who have isssues with trackpad, bluetooth, or sleep like myself. Many if not most of the files in this repository are DIRECTLY identical from the original repository, many of these files are disabled by default in ACPI.
 # macOS Monterey 
 - BIG SUR HAS BEEN RELEASED
 - Fullly functional Opencore version, working trackpad, touch
