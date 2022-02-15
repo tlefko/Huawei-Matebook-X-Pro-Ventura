@@ -80,6 +80,7 @@ This build is compatible up to Monterey 10.17 (macOS 12)
  # Credits
 - Original kext authors
 - Opencore
+- Mald0n for ACPI help
 - Profzei Matebook X Pro - Many patches, parts of config, some ACPI patches
  
  # Messages and Facetime
