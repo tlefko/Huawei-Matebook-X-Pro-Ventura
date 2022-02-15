@@ -81,7 +81,7 @@ This build is compatible up to Monterey 10.17 (macOS 12)
 - Original kext authors
 - Opencore
 - Mald0n for ACPI help
-- Profzei Matebook X Pro - Many patches, parts of config, some ACPI patches (@profzei)
+- Profzei Matebook X Pro - Many patches, parts of config, multitude of ACPI patches (@profzei)
  
  # Messages and Facetime
  - Gnerate your own Serials, Board Numbers, MLB
