@@ -82,6 +82,8 @@ This build is compatible up to Monterey 10.17 (macOS 12)
 - Opencore
 - Mald0n for ACPI help
 - Profzei Matebook X Pro - Many patches, parts of config, multitude of ACPI patches (@profzei)
+- Diliansky
+- OpenIntelWireless/Bluetool Project
  
  # Messages and Facetime
  - Gnerate your own Serials, Board Numbers, MLB
