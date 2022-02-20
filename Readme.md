@@ -11,6 +11,7 @@
 
 # Version Info
 - This build is compatible up to Monterey 10.17 (macOS 12)
+- ***Do not copy this repository to your EFI Folder, Download the EFI From Releases***
 - [x] Please leave **feedback with issues**
 - [x] **multitouch** support
 - [x] macOS 12 BT/Wifi
