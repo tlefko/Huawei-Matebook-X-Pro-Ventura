@@ -1,8 +1,5 @@
 # Matebook-X-Pro-2018-Monterey
 <p align="center">
-
-<a href="https://consumer.huawei.com<img width="588"src="https://user-images.githubusercontent.com/42879340/154865279-6f07efc7-1c44-4a26-aeb1-d5347088bfb7.png">
-/it/support/laptops/matebook-x-pro/" target="_blank"><img src="https://img.shields.io/badge/Model-MACH_W29-orange.svg" /></a>
 <a href="https://consumer.huawei.com/it/support/laptops/matebook-x-pro/" target="_blank"><img src="https://img.shields.io/badge/BIOS-1.37-red.svg" /></a>
  
 - Based on existing work done Matebook-X-Pro-2018 Profzei and 7 collabators. This repository is a modification of this work for those who have isssues with trackpad, bluetooth, or sleep like myself. Many if not most of the files in this repository are DIRECTLY identical from the original repository, with some disabled and replaced by DSDT.aml
