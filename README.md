@@ -8,9 +8,6 @@
 </div>
 
 
-- Based on existing work done Matebook-X-Pro-2018 Profzei and 7 collabators. This repository is a modification of this work for those who have isssues with trackpad, bluetooth, or sleep like myself. Many if not most of the files in this repository are DIRECTLY identical from the original repository, with some disabled and replaced by DSDT.aml
-- Fullly functional Opencore version, working trackpad, touch
-- Opencore 0.7.x
 
 # Version Info
 
@@ -18,6 +15,9 @@ This build is compatible up to Monterey 10.17 (macOS 12)
 - Please leave feedback with issues or w/o
 - multitouch support
 - macOS 12 bluetooth/wifi
+- - Based on existing work done Matebook-X-Pro-2018 Profzei and 7 collabators. This repository is a modification of this work for those who have isssues with trackpad, bluetooth, or sleep like myself. Many if not most of the files in this repository are DIRECTLY identical from the original repository, with some disabled and replaced by DSDT.aml
+- Fullly functional Opencore version, working trackpad, touch
+- Opencore 0.7.x
 
 #### This repository is currently compatible with macOS Monterey, Big Sur, and macOS Catalina 
 <div align="center">
