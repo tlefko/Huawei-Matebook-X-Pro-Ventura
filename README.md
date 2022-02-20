@@ -1,4 +1,4 @@
-# Matebook X Pro 2018- onterey
+# Matebook X Pro 2018 Monterey
 
 
 <a href="https://consumer.huawei.com/it/support/laptops/matebook-x-pro/" target="_blank"><img src="https://img.shields.io/badge/BIOS-1.37-red.svg" /></a>
