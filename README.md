@@ -168,7 +168,8 @@
  - Congratulations, there really aren't any more steps that are required. *** Feel free to contact me with any questions. ***
 
 # Donations
-- Send me a coffee ***lefkotyler@gmail.com***
+- ***Send me a coffee*** 
+- https://www.paypal.com/donate/?business=LG87NZSPQGFMS&no_recurring=0&currency_code=CAD
 
 # Feedback
 - Please open an issue to ***leave comments on the EFI*** as this is an ***alpha.***
