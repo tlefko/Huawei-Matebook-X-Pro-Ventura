@@ -11,6 +11,33 @@ This build is compatible up to Monterey 10.17 (macOS 12)
 - multitouch support
 - macOS 12 bluetooth/wifi
 
+#### This repository is currently compatible with macOS Monterey, Big Sur, Catalina a
+<div align="center">
+
+|     Monterey     |     macOS Big Sur      |     macOS Catalina     |       macOS Mojave       |
+| :--- | :--- | :--- | :--- |
+|     12.2.1 (21D62)      |     11.6.4 (20G417)    |     10.15.7  (19H15)   |       10.14.6  (18G87)   |
+|     12.2   (21D48)      |     11.6.3 (20G415)    |     10.15.6  (19G2021) |       10.14.5  (18F132)  |
+|     12.1   (21C52)      |     11.6.2 (20G314)    |     10.15.5  (19F101)  |       10.14.4  (18E226)  |
+|     12.0.1 (21A559)     |     11.6.1 (20G224)    |     10.15.4  (19E287)  |       10.14.3  (18D42)   |
+|                         |     11.6   (20G165)    |     10.15.3  (19D76)   |       10.14.2  (18C54)   |
+|                         |     11.5.2 (20G95)     |     10.15.2  (19C57)   |       10.14.1  (18B75)   |
+|                         |     11.5.1 (20G80)     |     10.15.1  (19B88)   |       10.14    (18A389)  |
+|                         |     11.5   (20G71)     |     10.15    (19A583)  |                          |
+|                         |     11.4   (20F71)     |                        |                          |
+|                         |     11.3.1 (20E241)    |                        |                          |
+|                         |     11.3   (20E232)    |                        |                          |
+|                         |     11.2.3 (20D91)     |                        |                          |
+|                         |     11.2.2 (20D80)     |                        |                          | 
+|                         |     11.2.1 (20D74)     |                        |                          |
+|                         |     11.2   (20D64)     |                        |                          |
+|                         |     11.1   (20C69)     |                        |                          |
+|                         |     11.0.1 (20B29)     |                        |                          |
+
+</div>
+
+
+
 # Bugs
 - Sometimes bluetooth firmware not injecting causes boot to hang. This will delay the boot time and bluetooth will not enable. After putting the computer to sleep, it will enable and function properly.
 
