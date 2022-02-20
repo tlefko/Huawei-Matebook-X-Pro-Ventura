@@ -1,7 +1,9 @@
 # Matebook-X-Pro-2018-Monterey
 <p align="center">
+<div align="center">
 <a href="https://consumer.huawei.com/it/support/laptops/matebook-x-pro/" target="_blank"><img src="https://img.shields.io/badge/BIOS-1.37-red.svg" /></a>
 <img width="588" alt="Screen Shot 2022-02-20 at 4 34 46 PM" src="https://user-images.githubusercontent.com/42879340/154865354-eeec6b55-068a-42d8-b4a9-a97581d9b469.png">
+</div>
 - Based on existing work done Matebook-X-Pro-2018 Profzei and 7 collabators. This repository is a modification of this work for those who have isssues with trackpad, bluetooth, or sleep like myself. Many if not most of the files in this repository are DIRECTLY identical from the original repository, with some disabled and replaced by DSDT.aml
 - Fullly functional Opencore version, working trackpad, touch
 - Opencore 0.7.x
