@@ -1,12 +1,8 @@
 # Matebook-X-Pro-2018-Monterey
 - Based on existing work done Matebook-X-Pro-2018 Profzei and 7 collabators. This repository is a modification of this work for those who have isssues with trackpad, bluetooth, or sleep like myself. Many if not most of the files in this repository are DIRECTLY identical from the original repository, with some disabled and replaced by DSDT.aml
 # macOS Monterey 
--
 - Fullly functional Opencore version, working trackpad, touch
 - Opencore 0.7.x
-
-# Site
-- checkout our official site! https://twortech.wixsite.com/pcmac
 
 # Version Info
 
@@ -22,6 +18,8 @@ This build is compatible up to Monterey 10.17 (macOS 12)
 - Additional Patches for 3K Display
 - updated for 15.4 rev 1
 - Supports Both Speakers in Stereo, reccomend using 3rd party sound controller like eqMac to control volume. in midi settings create a new aggregate device with both internal speakers to control all laptop speakers.
+- USB-C thunderbolt support / hotplug
+
 # Sleep Bugs
 - None.
 
@@ -73,7 +71,8 @@ This build is compatible up to Monterey 10.17 (macOS 12)
  - Boot into the BIOS of the computer, then navigate to the Boot setup (or entries (not sure what it is called exactly, but it will be a list of the options your computer selects to boot)
  - Click add new, and make sure the USB isn't plugged in.
  - Select the only option that is avaiable, and in FS0 navigate to Boot/BOOTx64. Add this as an entry, then select this as whatever priority you would like.
- 
+ # Site
+- checkout our official site! https://twortech.wixsite.com/pcmac
  # Credits
 - Original kext authors
 - Opencore
