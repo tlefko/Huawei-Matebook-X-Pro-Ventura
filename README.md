@@ -14,9 +14,9 @@
 - [x] Please leave **feedback with issues**
 - [x] **multitouch** support
 - [x] macOS 12 BT/Wifi
-- Based on existing work done Matebook-X-Pro-2018 Profzei and 7 collabators. This repository is a modification of this work for those who have isssues with trackpad, bluetooth, or sleep like myself. Many if not most of the files in this repository are DIRECTLY identical from the original repository, with some disabled and replaced by DSDT.aml
+- Based on ***existing work done Matebook-X-Pro-2018 Profzei and 7 collabators.*** This repository is a modification of this work for those who have isssues with trackpad, bluetooth, or sleep like myself. Many if not most of the files in this repository are ***DIRECTLY** identical from the original repository, with some disabled and replaced by DSDT.aml
 - [x] Fully functional Opencore version, working trackpad, touch
-- [x] Opencore 0.7.x
+- [x] Opencore **0.7.x**
 
 #### This repository is currently compatible with macOS Monterey, Big Sur, and macOS Catalina 
 <div align="center">
@@ -46,7 +46,7 @@
 
 
 # Bugs
-- Sometimes bluetooth firmware not injecting causes boot to hang. This will delay the boot time and bluetooth will not enable. After putting the computer to sleep, it will enable and function properly.
+- Sometimes bluetooth firmware not injecting causes boot to **hang**. This will ***delay the boot time*** and bluetooth will **not** enable. After putting the computer to sleep, it will enable and function properly.
 
 ## Configuration
 
@@ -75,7 +75,7 @@
 
 # Sleep Bugs
 - None.
-- Bluetooth sometimes will not enable after boot. After a proper sleep, bluetooth works properly.
+- Bluetooth ***sometimes will not enable after boot.**** After sleep, bluetooth works ***properly.***
 
 
 # Description
@@ -161,7 +161,7 @@
 - Original kext authors
 - Opencore
 - Mald0n for ACPI help
-- Profzei Matebook X Pro - Many patches, parts of config, multitude of ACPI DSDTs and SSDTs. (@profzei). As well as useful information from his ReadMe
+- ***Profzei Matebook X Pro - Many patches, parts of config, multitude of ACPI DSDTs and SSDTs. (@profzei). As well as useful information from his ReadMe***
 - Diliansky
 - OpenIntelWireless/Bluetool Project
  
