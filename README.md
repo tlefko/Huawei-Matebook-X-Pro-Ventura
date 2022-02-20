@@ -1,9 +1,11 @@
 # macOS  on Huawei Matebook X Pro 2018
 <p align="center">
-<img src="Wiki/Images/matebook-x-pro-monterey.png" alt="Huawei Big Sur 11.0" />
-</p>
-<p align="center">
 <a href="https://consumer.huawei.com/it/support/laptops/matebook-x-pro/" target="_blank"><img src="https://img.shields.io/badge/Model-MACH_W29-orange.svg" /></a>
+<a href="https://consumer.huawei.com/it/support/laptops/matebook-x-pro/" target="_blank"><img src="https://img.shields.io/badge/BIOS-1.37-red.svg" /></a>
+<a href="LICENSE" target="_blank"><img src="https://img.shields.io/badge/License-MIT-purple.svg" /></a>
+<a href="https://github.com/profzei/Matebook-X-Pro-2018/releases" target="_blank"><img src="https://img.shields.io/badge/Download-Releases-blue.svg" /></a>
+<a href="https://github.com/profzei/Matebook-X-Pro-2018/wiki" target="_blank"><img src="https://img.shields.io/badge/Support-Wiki-green.svg" /></a>
+</p>
 
 # Matebook-X-Pro-2018-Monterey
 - Based on existing work done Matebook-X-Pro-2018 Profzei and 7 collabators. This repository is a modification of this work for those who have isssues with trackpad, bluetooth, or sleep like myself. Many if not most of the files in this repository are DIRECTLY identical from the original repository, with some disabled and replaced by DSDT.aml
