@@ -8,4 +8,4 @@ examples/* linguist-documentation=false
 # Example of a `.gitattributes` file which reclassifies `.rb` files as Java:
 *.efi linguist-language=ASL
 *.plist linguist-language=C++
-*.zip linguist-lanugage=C#
+*.zip linguist-lanugage=C
