@@ -1,8 +1,8 @@
 # Matebook X Pro 2018- onterey
 
-<div align="center">
+
 <a href="https://consumer.huawei.com/it/support/laptops/matebook-x-pro/" target="_blank"><img src="https://img.shields.io/badge/BIOS-1.37-red.svg" /></a>
- 
+ <div align="center">
 <img width="588" alt="Screen Shot 2022-02-20 at 4 34 46 PM" src="https://user-images.githubusercontent.com/42879340/154865354-eeec6b55-068a-42d8-b4a9-a97581d9b469.png">
 
 </div>
