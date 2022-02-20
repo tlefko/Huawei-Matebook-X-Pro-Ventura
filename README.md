@@ -95,7 +95,7 @@
 - [x] **Intel(R) UHD 620** Graphics card  
 - [x] **Intel(R) Wireless-AC/Bluetooth
 - [x] **Power Management** with support for HWP (Intel Speed Shift & Intel SpeedStep)
-- [ ] **Voltageshift Undervolting and Power Management for Monterey
+- [ ] **Voltageshift Undervolting and Power Management for Monterey**
 - [x] **Sleep** and **Wake** native support
 - [x] **Hibernation** (support for native macOS `hibernatemode25`, 'hibernatemode3'.
 - [x] **Automatic Backlight control** 
