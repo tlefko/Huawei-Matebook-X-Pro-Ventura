@@ -1,9 +1,9 @@
 # Matebook-X-Pro-2018-Monterey
 - Based on existing work done Matebook-X-Pro-2018 Profzei and 7 collabators. This repository is a modification of this work for those who have isssues with trackpad, bluetooth, or sleep like myself. Many if not most of the files in this repository are DIRECTLY identical from the original repository, with some disabled and replaced by DSDT.aml
 # macOS Monterey 
-- BIG SUR HAS BEEN RELEASED
+-
 - Fullly functional Opencore version, working trackpad, touch
-- Using Opencore Bootloader
+- Opencore 0.7.x
 
 # Site
 - checkout our official site! https://twortech.wixsite.com/pcmac
@@ -12,7 +12,8 @@
 
 This build is compatible up to Monterey 10.17 (macOS 12)
 - Please leave feedback with issues or w/o
-- MULTITOUCH TOUCHSCREEN SUPPORT
+- multitouch support
+- macOS 12 bluetooth/wifi
 
 # Latest Release Notes
 - Fixed Bluetooth and Wifi Stability Issues
@@ -20,11 +21,7 @@ This build is compatible up to Monterey 10.17 (macOS 12)
 - DEPENDING ON YOUR MACOS VERSION YOU WILL NEED A DIFFERENT WIFI KEXT, see notes
 - Additional Patches for 3K Display
 - updated for 15.4 rev 1
-- if using unsupported wifi card disable it in bios
-- use config.plist not HD520
-- Perfect Sleep/Wake for 1080P Model no-touch, still bugs for 3K
 - Supports Both Speakers in Stereo, reccomend using 3rd party sound controller like eqMac to control volume. in midi settings create a new aggregate device with both internal speakers to control all laptop speakers.
--
 # Sleep Bugs
 - None.
 
@@ -34,7 +31,7 @@ This build is compatible up to Monterey 10.17 (macOS 12)
 - This esentially an ultra-simplistic version that is stable without the use of a deploy or complicated file installations and copies.
 - You can easily view all the SSDT patches along with configuration files for the bootloader as they are all documented clearly in the files.
 - This does include a copy of Opencore, which of course I do not contribute to and am only responsible for the provided files, patches, and kext placements/
-- This requires no isntallations aftrer initial install.
+- This requires no installation's after initial install.
 
 
 # Styling
