@@ -41,12 +41,27 @@ This build is compatible up to Monterey 10.17 (macOS 12)
 # Bugs
 - Sometimes bluetooth firmware not injecting causes boot to hang. This will delay the boot time and bluetooth will not enable. After putting the computer to sleep, it will enable and function properly.
 
+## Configuration
+
+<div align="center">
+
+| Specifications      | Details                                          |
+| :--- | :--- |
+| Computer model      | Huawei Matebook X Pro 2018 Space Gray            |
+| Processor           | Intel Core i7-8550U         |
+| Memory              | 16 GB LPDDR4 2133 MHz                             |
+| Hard Disk           | LiteON SSD PCIe NVMe 512 GB [CA3-8D512]          |
+| Integrated Graphics | NVIDIA GeForce MX150 (Disabled) / Intel(R) UHD Graphics 620 |
+| Display              | 3K Display @ 3000 x 2000 (13.9 inch)  @ 60hz        |
+| Sound Controller          | Realtek ALC256                                   |
+| Wireless Card       | Intel Dual Band Wireless-AC 8265            |
+| Bluetooth Card      | Intel Bluetooth 8265                        |
+ 
 # Latest Release Notes
 - Fixed Bluetooth and Wifi Stability Issues
 - Improved Preformance and Power Managements
 - DEPENDING ON YOUR MACOS VERSION YOU WILL NEED A DIFFERENT WIFI KEXT, see notes
 - Additional Patches for 3K Display
-- updated for 15.4 rev 1
 - Supports Both Speakers in Stereo, reccomend using 3rd party sound controller like eqMac to control volume. in midi settings create a new aggregate device with both internal speakers to control all laptop speakers.
 - USB-C thunderbolt support / hotplug
 
