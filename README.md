@@ -15,7 +15,7 @@
 - [x] **multitouch** support
 - [x] macOS 12 BT/Wifi
 - Based on ***existing work done Matebook-X-Pro-2018 Profzei and 7 collabators.*** This repository is a modification of this work for those who have isssues with trackpad, bluetooth, or sleep like myself. Many if not most of the files in this repository are ***DIRECTLY** identical from the original repository, with some disabled and replaced by DSDT.aml
-- [x] Fully functional Opencore Version Hackintosh, ***Working Trackpad, Touch, USB C, Display, Wifi, Bluetooth, Sleep, Etc***
+- [x] Fully functional **Opencore Version*** Hackintosh, ***Working Trackpad, Touch, USB C, Display, Wifi, Bluetooth, Sleep, Etc***
 - [x] Opencore **0.7.x**
 
 #### This repository is currently compatible with macOS Monterey, Big Sur, and macOS Catalina 
@@ -46,7 +46,7 @@
 
 
 # Bugs
-- Sometimes bluetooth firmware not injecting causes boot to **hang**. This will ***delay the boot time*** and bluetooth will **not** enable. After putting the computer to sleep, it will enable and function properly.
+- ***Sometimes the Bluetooth Firmware not injecting*** causes boot to **hang**. This will ***delay the boot time*** and bluetooth will **not** enable. After putting the computer to sleep, it will enable and function properly. Note the computer ***will still boot even if it hangs***.
 
 ## Configuration
 
@@ -137,25 +137,24 @@
  
 
 # Install Steps
- - Simply use F12 to boot from the USB device, and select the USB Device and then boot from the Install mac OS partition. I have defaulted the installer to boot into verbose mode so I can easily see the errors you guys are seeing if you encounter them. If everything goes well, you can disable these from the boot arguments selection of Clover Configurator
  - Boot into the USB Device, and follow the steps to format your SSD from the installer to install Mac OS Catalina. *Note* the trackpad will not function at this point, but the touchscreen will. This is caused by the way the installer handles Kext loading but because the touchscreen is being loaded via usb and the keyboard in a different method (which I can explain in detail if you'd like, the install will be possible.
  - Do not be alarmed if the installer takes a long time to boot into, this is expected
- - Once you have done this step, use F12 to select the USB and boot into the installer from the SSD in the options menu. (you cannot boot natively yet as the EFI isn't copied into the SSD yet.
+ - Once you have done this step, use **F12** to select the USB and boot into the installer from the SSD in the options menu. ***(you cannot boot natively yet as the EFI isn't copied into the SSD yet.***
  - Setup computer as normal, touchpad, brightness, etc, should all be functioning at this point. Same with wifi. Then, you should using Clover configurator copy the contents of the USB EFI into the EFI folder of your SSD EFI partition (in the folder)
  - Now we will add this as a native boot option.
- - Setup computer as normal, touchpad, brightness, etc, should all be functioning at this point. Same with wifi. Then, you should using Clover configurator copy the contents of the USB EFI into the EFI folder of your SSD EFI partition (in the folder)
+ - Setup computer as normal, touchpad, brightness, etc, ***should all be functioning at this point.*** Same with wifi. Then, you should using ***OpenCore configurator*** copy the contents of the ***USB EFI*** into the EFI folder of your ***SSD EFI partition (in the folder)***
  - Now will we add this as a boot entry so you can always boot from this natively without the USB.
- - If wifi does not work, google airport itlwm and replace the version in the EFI with the one meant for your macOS version. Rename to be the same as the name of the kext in the folder.
+ - If wifi does ***not work***, google airport itlwm and replace the version in the EFI with the one meant for your macOS version. Rename to be the same as the name of the kext in the folder.
 
  # Site
 - checkout our official site! **https://twortech.wixsite.com/pcmac**
  # Credits
 - Original kext authors
-- Opencore
+- ***Opencore Team***
 - Mald0n for ACPI help
 - ***Profzei Matebook X Pro - Many patches, parts of config, multitude of ACPI DSDTs and SSDTs. (@profzei). As well as useful information from his ReadMe***
 - Diliansky
-- OpenIntelWireless/Bluetool Project
+- ***OpenIntelWireless/Bluetool Project***
  
  # Messages and Facetime
  - Gnerate your own Serials, Board Numbers, MLB
@@ -172,4 +171,4 @@
 - Send me a coffee ***lefkotyler@gmail.com***
 
 # Feedback
-- Please open an issue to leave comments on the EFI as this is an ***alpha.***
+- Please open an issue to ***leave comments on the EFI*** as this is an ***alpha.***
