@@ -17,7 +17,6 @@
 - Based on ***existing work done Matebook-X-Pro-2018 Profzei and 7 collabators.*** This repository is a modification of this work for those who have isssues with trackpad, bluetooth, or sleep like myself. Many if not most of the files in this repository are ***DIRECTLY** identical from the original repository, with some disabled and replaced by DSDT.aml
 - [x] Fully functional **Opencore Version*** Hackintosh, ***Working Trackpad, Touch, USB C, Display, Wifi, Bluetooth, Sleep, Etc***
 - [x] Opencore **0.7.x**
-- [x]
 #### This repository is currently compatible with macOS Monterey, Big Sur, and macOS Catalina 
 <div align="center">
 
