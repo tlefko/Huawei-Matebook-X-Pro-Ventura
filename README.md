@@ -15,7 +15,7 @@
 - [x] **multitouch** support
 - [x] macOS 12 BT/Wifi
 - Based on ***existing work done Matebook-X-Pro-2018 Profzei and 7 collabators.*** This repository is a modification of this work for those who have isssues with trackpad, bluetooth, or sleep like myself. Many if not most of the files in this repository are ***DIRECTLY** identical from the original repository, with some disabled and replaced by DSDT.aml
-- [x] Fully functional Opencore version, working trackpad, touch
+- [x] Fully functional Opencore version, ***working trackpad, touch***
 - [x] Opencore **0.7.x**
 
 #### This repository is currently compatible with macOS Monterey, Big Sur, and macOS Catalina 
@@ -68,9 +68,9 @@
 # Latest Release Notes
 - Fixed Bluetooth and Wifi Stability Issues
 - Improved Preformance and Power Managements
-- DEPENDING ON YOUR MACOS VERSION YOU WILL NEED A DIFFERENT WIFI KEXT, see notes
+- DEPENDING ON YOUR MACOS VERSION ***YOU WILL NEED A DIFFERENT WIFI KEXT***, see notes
 - Additional Patches for 3K Display
-- Supports Both Speakers in Stereo, reccomend using 3rd party sound controller like eqMac to control volume. in midi settings create a new aggregate device with both internal speakers to control all laptop speakers.
+- Supports Both Speakers in Stereo, reccomend using ***3rd party sound controller*** like eqMac to control volume. in midi settings create a new aggregate device with both internal speakers to control all laptop speakers.
 - USB-C thunderbolt support / hotplug
 
 # Sleep Bugs
@@ -79,21 +79,16 @@
 
 
 # Description
-
 - This esentially an ultra-simplistic version that is stable without the use of a deploy or complicated file installations and copies.
-- You can easily view all the SSDT patches along with configuration files for the bootloader as they are all documented clearly in the files.
-- This does include a copy of Opencore, which of course I do not contribute to and am only responsible for the provided files, patches, and kext placements/
-- This requires no installation's after initial install.
+- You can easily view all the **SSDT patches along with configuration files*** for the bootloader as they are all ***documented clearly*** in the files.
+
 
 
 # Styling
 - This guide is designed to be literally as thorough as possible to appeal all types of users.  It does not cover complex topics like undervolting etc etc only to provide a completely functional system
 
-# Notes
-- USB C accesories work.
-- Airdrop is glitchy
-- Handoff, Hotspot work.
-- Please change your SMBIOS, MLB, and ROM values
+# MLB and ROM / Serials
+- ***Please generate your own independent serial, MLB, ROM, and Board-ID.***
 
  ## Status
 
@@ -107,23 +102,24 @@
 - [x] Backlight shortcuts (F1 [brightness level down] - F2 [brightness level up])
 - [x] Volume shortcuts (F4 [mute] - F5 [audio level down] - F6 [audio level up])
 - [x] Working AppleALC Kext with Layout ID 97
-- [x] **Speakers** (4 Channels) & Internal Mic, controlled as one aggregegate device
-- [x] **Headphone** jack is working with combojack and AppleALC
+- [x] **Speakers** (4 Channels) & Internal Mic, controlled as an aggregegate device
+- [x] **Headphone** jack is working with Combojack and AppleALC
 - [x] **HDMI 2.0** up to two 4K @60 Hz monitors
 - [x] **Native Color Profile** for Display JDI 3k
 - [x] **Trackpad** (via `GPI0` interrupt mode) and **native macOS gestures**
-- [x] Touchscreen Support with native Gestures
+- [x] Touchscreen Support with **native** Gestures
 - [x] Native speeds on liteON SSD
 - [] PCI Devices latency support and complete description for System Information app (some incorrect descriptors)
 - [] **USB Ports Mapping** (Type-A & Type-C) with proper power levels (Ports are not properly configured, but functional
 - [x] **Thunderbolt Port** with USB-C hotplug
 - [x] 720P HD Camera
 - [x] NVRAM  support
-- [ ] Universal Control is a work in progress, along with continuity features
+- [ ] Universal Control is a **work in progress***, along with continuity features
+- [ ] Apple Watch Unlock (WIP)
 
 # BIOS Setup
--  Set all SATA operation as AHCI
-- Disable Secure Boot, Fast Boot
+-  Set all SATA operation as **AHCI**
+- Disable **Secure Boot, Fast Boot***
 - For Coil Whine improvement disable C-States
 - Enable UEFI Booting
 - THE MOST IMPORTANT OPTION IF YOU CANNOT FIND THE REST IS TO DISABLE SECURE BOOT
@@ -150,13 +146,9 @@
  - Setup computer as normal, touchpad, brightness, etc, should all be functioning at this point. Same with wifi. Then, you should using Clover configurator copy the contents of the USB EFI into the EFI folder of your SSD EFI partition (in the folder)
  - Now will we add this as a boot entry so you can always boot from this natively without the USB.
  - If wifi does not work, google airport itlwm and replace the version in the EFI with the one meant for your macOS version. Rename to be the same as the name of the kext in the folder.
- 
- # Boot Entry Setup
- - Boot into the BIOS of the computer, then navigate to the Boot setup (or entries (not sure what it is called exactly, but it will be a list of the options your computer selects to boot)
- - Click add new, and make sure the USB isn't plugged in.
- - Select the only option that is avaiable, and in FS0 navigate to Boot/BOOTx64. Add this as an entry, then select this as whatever priority you would like.
+
  # Site
-- checkout our official site! https://twortech.wixsite.com/pcmac
+- checkout our official site! **https://twortech.wixsite.com/pcmac**
  # Credits
 - Original kext authors
 - Opencore
@@ -174,10 +166,10 @@
  - To resolve headphones static issue (wired) install combojack 
  
  # Finished!
- - Congratulations, there really aren't any more steps that are required. Feel free to contact me with any questions. 
+ - Congratulations, there really aren't any more steps that are required. *** Feel free to contact me with any questions. ***
 
 # Donations
-- Send me a coffee lefkotyler@gmail.com
+- Send me a coffee *** lefkotyler@gmail.com***
 
 # Feedback
 - Please open an issue to leave comments on the EFI as this is an alpha.
