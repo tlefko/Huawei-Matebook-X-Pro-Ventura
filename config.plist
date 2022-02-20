@@ -1381,7 +1381,7 @@
 			<key>KeyFiltering</key>
 			<false/>
 			<key>KeyForgetThreshold</key>
-			<integer>5</integer>
+			<integer>4</integer>
 			<key>KeySupport</key>
 			<true/>
 			<key>KeySupportMode</key>
