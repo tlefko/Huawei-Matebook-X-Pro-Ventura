@@ -11,6 +11,9 @@ This build is compatible up to Monterey 10.17 (macOS 12)
 - multitouch support
 - macOS 12 bluetooth/wifi
 
+# Bugs
+- Sometimes bluetooth firmware not injecting causes boot to hang. This will delay the boot time and bluetooth will not enable. After putting the computer to sleep, it will enable and function properly.
+
 # Latest Release Notes
 - Fixed Bluetooth and Wifi Stability Issues
 - Improved Preformance and Power Managements
@@ -22,6 +25,7 @@ This build is compatible up to Monterey 10.17 (macOS 12)
 
 # Sleep Bugs
 - None.
+- Bluetooth sometimes will not enable after boot. After a proper sleep, bluetooth works properly.
 
 
 # Description
