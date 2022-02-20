@@ -1,4 +1,5 @@
-xamples/* linguist-documentation=false
+examples/* linguist-documentation=false
+app/* linguist-documentation=false
  *.plist linguist-detectable=false
  *.efi linguist-detectable=false
  *.python linguist-detectable=true 
