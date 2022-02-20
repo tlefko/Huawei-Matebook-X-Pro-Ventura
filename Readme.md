@@ -74,7 +74,6 @@
 - USB-C thunderbolt support / hotplug
 
 # Sleep Bugs
-- None.
 - Bluetooth ***sometimes will not enable after boot.**** After sleep, bluetooth works ***properly.***
 
 
