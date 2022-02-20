@@ -66,11 +66,11 @@
  </div>
 
 # Latest Release Notes
-- Fixed Bluetooth and Wifi Stability Issues
-- Improved Preformance and Power Managements
+- Fixed Bluetooth and ***Wifi Stability Issues***
+- Improved Preformance and ***Power Management***
 - DEPENDING ON YOUR MACOS VERSION ***YOU WILL NEED A DIFFERENT WIFI KEXT***, see notes
-- Additional Patches for 3K Display
-- Supports Both Speakers in Stereo, reccomend using ***3rd party sound controller*** like eqMac to control volume. in midi settings create a new aggregate device with both internal speakers to control all laptop speakers.
+- Additional Patches for ***3K Display***
+- Supports ***Both Speakers in Stereo**, reccomend using ***3rd party sound controller*** like eqMac to control volume. in midi settings create a new aggregate device with both internal speakers to control all laptop speakers.
 - USB-C thunderbolt support / hotplug
 
 # Sleep Bugs
@@ -79,7 +79,7 @@
 
 
 # Description
-- This esentially an ultra-simplistic version that is stable without the use of a deploy or complicated file installations and copies.
+- This esentially an ***ultra-simplistic*** version that is stable without the use of a deploy or complicated file installations and copies.
 - You can easily view all the **SSDT patches along with configuration files*** for the bootloader as they are all ***documented clearly*** in the files.
 
 
