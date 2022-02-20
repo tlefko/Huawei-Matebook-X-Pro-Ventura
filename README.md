@@ -120,6 +120,9 @@ This build is compatible up to Monterey 10.17 (macOS 12)
 - For Coil Whine improvement disable C-States
 - Enable UEFI Booting
 - THE MOST IMPORTANT OPTION IF YOU CANNOT FIND THE REST IS TO DISABLE SECURE BOOT
+- [x] `Main` -> `Thunderbolt Device` -> `Security Level` -> **No Security**
+- [x] `Main` -> `Advanced` -> `PXE Device Enable` -> **Disable**
+- [x] `Main` -> `Advanced` -> `Fingerprint Enable` -> **Disable**
 
 # Recommended: Clean Install (Preinstall steps)
 - Format a USB (16GB) as Journaled and then proceed to download the latest Catalina Installer Patcher Application
