@@ -50,8 +50,8 @@ This build is compatible up to Monterey 10.17 (macOS 12)
 | Computer model      | Huawei Matebook X Pro 2018 Space Gray            |
 | Processor           | Intel Core i7-8550U         |
 | Memory              | 16 GB LPDDR4 2133 MHz                             |
-| Hard Disk           | LiteON SSD PCIe NVMe 512 GB [CA3-8D512]          |
-| Integrated Graphics | NVIDIA GeForce MX150 (Disabled) / Intel(R) UHD Graphics 620 |
+| SSD           | LiteON SSD PCIe NVMe 512 GB [CA3-8D512]          |
+| Graphics | NVIDIA GeForce MX150 (Disabled) / Intel(R) UHD Graphics 620 |
 | Display              | 3K Display @ 3000 x 2000 (13.9 inch)  @ 60hz        |
 | Sound Controller          | Realtek ALC256                                   |
 | Wireless Card       | Intel Dual Band Wireless-AC 8265            |
@@ -87,6 +87,31 @@ This build is compatible up to Monterey 10.17 (macOS 12)
 - Handoff, Hotspot work.
 - Please change your SMBIOS, MLB, and ROM values
 
+ ## Status
+
+- [x] **Intel(R) UHD 620** Graphics card  
+- [x] **Intel(R) Wireless-AC/Bluetooth
+- [x] **Power Management** with support for HWP (Intel Speed Shift & Intel SpeedStep)
+- [ ] **Voltageshift Undervolting and Power Management for Monterey
+- [x] **Sleep** and **Wake** native support
+- [x] **Hibernation** (support for native macOS `hibernatemode25`, 'hibernatemode3'.
+- [x] **Automatic Backlight control** 
+- [x] Backlight shortcuts (F1 [brightness level down] - F2 [brightness level up])
+- [x] Volume shortcuts (F4 [mute] - F5 [audio level down] - F6 [audio level up])
+- [x] Working AppleALC Kext with Layout ID 97
+- [x] **Speakers** (4 Channels) & Internal Mic, controlled as one aggregegate device
+- [x] **Headphone** jack is working with combojack and AppleALC
+- [x] **HDMI 2.0** up to two 4K @60 Hz monitors
+- [x] **Native Color Profile** for Display JDI 3k
+- [x] **Trackpad** (via `GPI0` interrupt mode) and **native macOS gestures**
+- [x] Touchscreen Support with native Gestures
+- [x] Native speeds on liteON SSD
+- [] PCI Devices latency support and complete description for System Information app (some incorrect descriptors)
+- [] **USB Ports Mapping** (Type-A & Type-C) with proper power levels (Ports are not properly configured, but functional
+- [x] **Thunderbolt Port** with USB-C hotplug
+- [x] 720P HD Camera
+- [x] NVRAM  support
+- [ ] Universal Control is a work in progress, along with continuity features
 
 # BIOS Setup
 -  Set all SATA operation as AHCI
@@ -101,6 +126,8 @@ This build is compatible up to Monterey 10.17 (macOS 12)
 - Download the clover configurator application and mount the EFI of the USB partition, then copy the contents of the Files linked above to A new EFI Folder (that you create) within the EFI partition.
 
 ** This is because the App Store installers will often not download a full installer, just an truncated version that downloads the installer files from the interent while installing. Thus, they're not bootable from a USB as they're not complete. That is why you should use this method to make sure the installer is usable for bootable media. 
+ 
+ 
 
 # Install Steps
  - Simply use F12 to boot from the USB device, and select the USB Device and then boot from the Install mac OS partition. I have defaulted the installer to boot into verbose mode so I can easily see the errors you guys are seeing if you encounter them. If everything goes well, you can disable these from the boot arguments selection of Clover Configurator
