@@ -158,7 +158,7 @@ This build is compatible up to Monterey 10.17 (macOS 12)
 - Original kext authors
 - Opencore
 - Mald0n for ACPI help
-- Profzei Matebook X Pro - Many patches, parts of config, multitude of ACPI DSDTs and SSDTs. (@profzei)
+- Profzei Matebook X Pro - Many patches, parts of config, multitude of ACPI DSDTs and SSDTs. (@profzei). As well as useful information from his ReadMe
 - Diliansky
 - OpenIntelWireless/Bluetool Project
  
