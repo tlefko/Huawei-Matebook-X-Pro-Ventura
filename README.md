@@ -56,7 +56,7 @@ This build is compatible up to Monterey 10.17 (macOS 12)
 | Sound Controller          | Realtek ALC256                                   |
 | Wireless Card       | Intel Dual Band Wireless-AC 8265            |
 | Bluetooth Card      | Intel Bluetooth 8265                        |
- 
+ </div>
 # Latest Release Notes
 - Fixed Bluetooth and Wifi Stability Issues
 - Improved Preformance and Power Managements
