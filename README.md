@@ -1,10 +1,7 @@
-# macOS  on Huawei Matebook X Pro 2018
+# Matebook-X-Pro-2018-Monterey
 <p align="center">
 <a href="https://consumer.huawei.com/it/support/laptops/matebook-x-pro/" target="_blank"><img src="https://img.shields.io/badge/Model-MACH_W29-orange.svg" /></a>
 <a href="https://consumer.huawei.com/it/support/laptops/matebook-x-pro/" target="_blank"><img src="https://img.shields.io/badge/BIOS-1.37-red.svg" /></a>
-<a href="LICENSE" target="_blank"><img src="https://img.shields.io/badge/License-MIT-purple.svg" /></a>
-<a href="https://github.com/profzei/Matebook-X-Pro-2018/releases" target="_blank"><img src="https://img.shields.io/badge/Download-Releases-blue.svg" /></a>
-<a href="https://github.com/profzei/Matebook-X-Pro-2018/wiki" target="_blank"><img src="https://img.shields.io/badge/Support-Wiki-green.svg" /></a>
 </p>
 
 # Matebook-X-Pro-2018-Monterey
