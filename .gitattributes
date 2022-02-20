@@ -1,3 +1,4 @@
+xamples/* linguist-documentation=false
  *.plist linguist-detectable=false
  *.efi linguist-detectable=false
  *.python linguist-detectable=true 
@@ -7,5 +8,3 @@
  # Example of a `.gitattributes` file which reclassifies `.rb` files as Java:
  *.efi linguist-language=ASL
  *.plist linguist-language=C++
- *.ASM linguist-language=Assembly
- *.efi linguist-language=Assembly
