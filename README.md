@@ -1,7 +1,7 @@
 # Matebook-X-Pro-2018-Monterey
 <p align="center">
 
-<a href="https://consumer.huawei.com<img width="588" alt="Screen Shot 2022-02-20 at 4 34 46 PM" src="https://user-images.githubusercontent.com/42879340/154865279-6f07efc7-1c44-4a26-aeb1-d5347088bfb7.png">
+<a href="https://consumer.huawei.com<img width="588"src="https://user-images.githubusercontent.com/42879340/154865279-6f07efc7-1c44-4a26-aeb1-d5347088bfb7.png">
 /it/support/laptops/matebook-x-pro/" target="_blank"><img src="https://img.shields.io/badge/Model-MACH_W29-orange.svg" /></a>
 <a href="https://consumer.huawei.com/it/support/laptops/matebook-x-pro/" target="_blank"><img src="https://img.shields.io/badge/BIOS-1.37-red.svg" /></a>
  
