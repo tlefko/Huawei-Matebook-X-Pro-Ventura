@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CPU Names</key>
+	<dict>
+		<key>P3XY-en-CA_CA</key>
+		<string>Huawei Matebook X Pro (13.9-inch, 2018, 2 USB-C Ports, 1 USB-A Port)</string>
+	</dict>
+	<key>PrefsVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
