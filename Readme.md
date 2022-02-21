@@ -9,6 +9,12 @@
 
 </div>
 
+ <div align="center">
+ 
+ 
+<img width="1500" alt="Screen Shot 2022-02-21 at 4 31 09 PM" src="https://user-images.githubusercontent.com/42879340/155028608-8dcabcd5-57e2-4ed4-ad38-2f9bc92df307.png">
+MBXP with Neofetch Output
+ </div>
 
 
 # Version Info
