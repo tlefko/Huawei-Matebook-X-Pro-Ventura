@@ -1,2 +1,2 @@
-*.plist linguist-language=xml
+*.plist linguist-language=C++
 *.aml linguist-language=ASL
