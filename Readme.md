@@ -3,16 +3,16 @@
 
 <a href="https://consumer.huawei.com/it/support/laptops/matebook-x-pro/" target="_blank"><img src="https://img.shields.io/badge/BIOS-1.37-red.svg" /></a>
  <div align="center">
-<img width="1500" alt="Screen Shot 2022-02-21 at 5 33 34 PM" src="https://user-images.githubusercontent.com/42879340/155033833-bf92161b-2113-4ce8-8b61-9c631819e0f3.png">
 
- Huawei Matebook X Pro 2018 Running macOS Monterey
+ Huawei Matebook X Pro 2018 Running macOS Monterey<img width="1500" alt="Screen Shot 2022-02-21 at 5 33 34 PM" src="https://user-images.githubusercontent.com/42879340/155034082-79d09280-2663-4a6f-848f-ab7294a399d9.png">
+
 
 
 </div>
 
  <div align="center">
- 
- <img width="1500" alt="Screen Shot 2022-02-21 at 5 33 18 PM" src="https://user-images.githubusercontent.com/42879340/155033841-956fae53-33a9-40b0-a6f0-ec6e5db6bdc4.png">
+ <img width="1500" alt="Screen Shot 2022-02-21 at 5 33 18 PM" src="https://user-images.githubusercontent.com/42879340/155034089-f8e49403-aeb1-4b99-92cf-9fba5c6253e8.png">
+
 
 MBXP with Neofetch Output
  </div>
