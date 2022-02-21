@@ -1,4 +1,3 @@
-examples/* linguist-documentation=false
 *.plist linguist-detectable=false
 *.efi linguist-detectable=false
 *.python linguist-detectable=true 
