@@ -154,6 +154,8 @@ MBXP with Neofetch Output
  - Now will we add this as a boot entry so you can always boot from this natively without the USB.
  - If wifi does ***not work***, google airport itlwm and replace the version in the EFI with the one meant for your macOS version. Rename to be the same as the name of the kext in the folder.
 
+# About this Mac
+- [x] Copy the SystemInfo file to /Users/you/preferences and ***replace*** the original plist with the one in the ***Repository Files*** to change to Huawei MBXP
  # Site
 - checkout our official site! **https://twortech.wixsite.com/pcmac**
  # Credits
