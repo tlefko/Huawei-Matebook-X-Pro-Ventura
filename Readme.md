@@ -181,5 +181,9 @@ MBXP with Neofetch Output
 - ***Send me a coffee*** 
 - https://www.paypal.com/donate/?business=LG87NZSPQGFMS&no_recurring=0&currency_code=CAD
 
+# Other Inquiries and Machines
+- If you have any other machines or devices you want me to take a look at, please contact me on fiver!
+- https://www.fiverr.com/share/12bxEr
+
 # Feedback
 - Please open an issue to ***leave comments on the EFI*** as this is an ***alpha.***
