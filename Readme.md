@@ -56,6 +56,7 @@ MBXP with Neofetch Output
 
 # Bugs
 - ***Sometimes the Bluetooth Firmware not injecting*** causes boot to **hang**. This will ***delay the boot time*** and bluetooth will **not** enable. After putting the computer to sleep, it will enable and function properly. Note the computer ***will still boot even if it hangs***.
+- Same bug as above may happen but with **USB** **ports**, it is directly **linked** to the BT issue, put computer to sleep and it will be fine. Monterey lol.
 
 ## Configuration
 
