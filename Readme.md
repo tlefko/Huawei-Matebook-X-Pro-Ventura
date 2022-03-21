@@ -57,7 +57,7 @@ MBXP with Neofetch Output
 
 
 # Bugs
-- Same bug as above may happen but with **USB** **ports**, it is directly **linked** to the BT issue, put computer to sleep and it will be fine. Monterey lol.
+- Bug happens where some **USB** **ports** fail to inject which specifically and only effects bluetooth, it is directly **linked** put computer to sleep, and bluetooths should be fine Monterey lol.
 
 ## Configuration
 
