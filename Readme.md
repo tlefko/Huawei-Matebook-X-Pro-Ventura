@@ -13,7 +13,7 @@
 
  <div align="center">
 
- <img width="1500" alt="Screen Shot 2022-02-21 at 5 33 18 PM" src="https://user-images.githubusercontent.com/42879340/155034089-f8e49403-aeb1-4b99-92cf-9fba5c6253e8.png">
+ <img width="1500" alt="Screen Shot 2022-02-21 at 5 33 18 PM" src="https://user-images.githubusercontent.com/42879340/159208954-f5dc4c9e-908f-49c9-bbd8-b345a7dbff15.png">">
 MBXP with Neofetch Output
  </div>
 
@@ -44,7 +44,8 @@ MBXP with Neofetch Output
 |                         |     11.4   (20F71)     |                        |                          |
 |                         |     11.3.1 (20E241)    |                        |                          |
 |                         |     11.3   (20E232)    |                        |                          |
-|                         |     11.2.3 (20D91)     |                        |                          |
+|                         |     11.2.3 (20D91)     |                        |                         
+ |
 |                         |     11.2.2 (20D80)     |                        |                          | 
 |                         |     11.2.1 (20D74)     |                        |                          |
 |                         |     11.2   (20D64)     |                        |                          |
