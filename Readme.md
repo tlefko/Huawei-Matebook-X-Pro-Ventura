@@ -57,7 +57,8 @@ MBXP with Neofetch Output
 
 
 # Bugs
-- Bug happens where some **USB** **ports** fail to inject which specifically and only effects bluetooth, it is directly **linked** put computer to sleep, and bluetooths should be fine Monterey lol.
+- Bug happens where some **USB** **ports** fail to inject which also effects bluetooth, putting the computer to sleep (once) for a few minutes will resolve all USB issues and bluetooth.
+- Not a bug, but sound cannot control both speakers as they are two seperate devices under macos. this creates two output devices. see issues with the tag documentation to combine both into one audio device to imrpove audio quality
 
 ## Configuration
 
