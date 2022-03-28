@@ -159,8 +159,7 @@ MBXP with Neofetch Output
 
 # About this Mac
 - [x] Copy the SystemInfo file to /Users/you/preferences and ***replace*** the original plist with the one in the ***Repository Files*** to change to Huawei MBXP
- # Site
-- checkout our official site! **https://twortech.wixsite.com/pcmac**
+
  # Credits
 - Original kext authors
 - ***Opencore Team***
@@ -173,20 +172,13 @@ MBXP with Neofetch Output
  - Gnerate your own Serials, Board Numbers, MLB
  - There are various guides online to do this and as default they're set to essentially Null (Fakeserial)
  - This is fairly straightforward and there is lots of external recourses, or you can contact me for support.
- # Headphones and Audio
- - All audio from speakers should work perfectly along with Bluetooth and USB audio
- - To resolve headphones static issue (wired) install combojack 
- 
+
  # Finished!
  - Congratulations, there really aren't any more steps that are required. *** Feel free to contact me with any questions. ***
 
 # Donations
 - ***Send me a coffee*** 
 - https://www.paypal.com/donate/?business=LG87NZSPQGFMS&no_recurring=0&currency_code=CAD
-
-# Other Inquiries and Machines
-- If you have any other machines or devices you want me to take a look at, please contact me on fiver!
-- https://www.fiverr.com/share/12bxEr
 
 # Feedback
 - Please open an issue to ***leave comments on the EFI*** as this is an ***alpha.***
