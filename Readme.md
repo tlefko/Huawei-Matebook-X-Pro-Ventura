@@ -56,9 +56,6 @@ MBXP with Neofetch Output
 
 
 
-# Bugs
-- Bug happens where some **USB** **ports** fail to inject which also effects bluetooth, putting the computer to sleep (once) for a few minutes will resolve all USB issues and bluetooth.
-- Not a bug, but sound cannot control both speakers as they are two seperate devices under macos. this creates two output devices. see issues with the tag documentation to combine both into one audio device to imrpove audio quality
 
 ## Configuration
 
@@ -80,23 +77,12 @@ MBXP with Neofetch Output
 # Latest Release Notes
 - Fixed Bluetooth and ***Wifi Stability Issues***
 - Improved Preformance and ***Power Management***
-- DEPENDING ON YOUR MACOS VERSION ***YOU WILL NEED A DIFFERENT WIFI KEXT***, see notes
-- Additional Patches for ***3K Display***
-- Supports ***Both Speakers in Stereo**, reccomend using ***3rd party sound controller*** like eqMac to control volume. in midi settings create a new aggregate device with both internal speakers to control all laptop speakers.
-- USB-C thunderbolt support / hotplug
-
-# Sleep Bugs
-- Bluetooth ***sometimes will not enable after boot.**** After sleep, bluetooth works ***properly.***
-
+- Fixed Bluetooth failing to **inject/delaying** boot
+- Fixed Speakers requiring **multiple device** outputs 
 
 # Description
 - This esentially an ***ultra-simplistic*** version that is stable without the use of a deploy or complicated file installations and copies.
 - You can easily view all the **SSDT patches along with configuration files*** for the bootloader as they are all ***documented clearly*** in the files.
-
-
-
-# Styling
-- This guide is designed to be literally as thorough as possible to appeal all types of users.  It does not cover complex topics like undervolting etc etc only to provide a completely functional system
 
 # MLB and ROM / Serials
 - ***Please generate your own independent serial, MLB, ROM, and Board-ID.***
