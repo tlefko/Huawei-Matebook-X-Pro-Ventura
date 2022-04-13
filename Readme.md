@@ -20,14 +20,13 @@ MBXP with Neofetch Output
 
 # Version Info
 - This build is compatible up to Monterey 10.17 (macOS 12)
-- ***Do not copy this repository to your EFI Folder, Download the EFI From Releases***
 - [x] Please leave **feedback with issues**
 - [x] **multitouch** support
 - [x] macOS 12 BT/Wifi
 - [x] Updated for 12.3.1
 - Based on ***existing work done Matebook-X-Pro-2018 Profzei and 7 collabators.*** This repository is a modification of this work for those who have isssues with trackpad, bluetooth, or sleep like myself. Many if not most of the files in this repository are ***DIRECTLY** identical from the original repository, with some disabled and replaced by DSDT.aml
 - [x] Fully functional **Opencore Version*** Hackintosh, ***Working Trackpad, Touch, USB C, Display, Wifi, Bluetooth, Sleep, Etc***
-- [x] Opencore **0.7.x**
+- [x] Opencore **0.7.9**
 #### This repository is currently compatible with macOS Monterey, Big Sur, and macOS Catalina 
 <div align="center">
 
