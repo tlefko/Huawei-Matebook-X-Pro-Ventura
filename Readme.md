@@ -95,8 +95,8 @@
 - [x] **Automatic Backlight control** 
 - [x] Backlight shortcuts (F1 [brightness level down] - F2 [brightness level up])
 - [x] Volume shortcuts (F4 [mute] - F5 [audio level down] - F6 [audio level up])
-- [x] Working AppleALC Kext with Layout ID 97
-- [x] **Speakers** (4 Channels) & Internal Mic, controlled as an aggregegate device
+- [x] Working AppleALC Kext with Layout ID 76. Quad-Channel
+- [x] **Speakers** (4 Channels) & Internal Mic.
 - [x] **Headphone** jack is working with Combojack and AppleALC
 - [x] **HDMI 2.0** up to two 4K @60 Hz monitors
 - [x] **Native Color Profile** for Display JDI 3k
