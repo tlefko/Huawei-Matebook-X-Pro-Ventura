@@ -51,7 +51,8 @@
 
 </div>
 
-
+# Next Release Goals
+- Further optimize XCPM and Battery Life. Potentially exploring CFG lock changes within the config.
 
 
 ## Configuration
