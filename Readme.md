@@ -122,7 +122,7 @@
 - [x] `Main` -> `Thunderbolt Device` -> `Security Level` -> **No Security**
 - [x] `Main` -> `Advanced` -> `PXE Device Enable` -> **Disable**
 - [x] `Main` -> `Advanced` -> `Fingerprint Enable` -> **Disable**
-- [ ] DISABLE OTHER WAKE UP SOURCES --- THIS WILL FIX ALL SLEEP ISSUES (creds @doggie13 for discovery of sleep bug/solution testing)
+- [ ] DISABLE OTHER WAKE UP SOURCES --- THIS WILL FIX ALL SLEEP ISSUES (creds @doggie13 for discovery of sleep bug/solution testing). This **stops** passive battery drain from the fans spinning during sleep.
 
 # Recommended: Clean Install (Preinstall steps)
 - Format a USB (16GB) as Journaled and then proceed to download the latest Catalina Installer Patcher Application
