@@ -78,7 +78,7 @@
 - Fixed Bluetooth failing to **inject/delaying** boot
 - Fixed Speakers requiring **multiple device** outputs 
 - - [ ] DISABLE OTHER WAKE UP SOURCES --- THIS WILL FIX ALL SLEEP ISSUES such as bluetooth not working after sleep, fans spinning during sleep. **THIS IS IN THE BIOS**
-
+- Please read the issues tab to fix apple music 
 # Description
 - This esentially an ***ultra-simplistic*** version that is stable without the use of a deploy or complicated file installations and copies.
 - You can easily view all the **SSDT patches along with configuration files*** for the bootloader as they are all ***documented clearly*** in the files.
