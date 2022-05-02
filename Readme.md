@@ -163,7 +163,7 @@
  - Congratulations, there really aren't any more steps that are required. *** Feel free to contact me with any questions. ***
 
 # Donations
-- ***Send me a coffee*** 
+- ***Send me a coffee if you feel I helped you!***
 - https://www.paypal.com/donate/?business=LG87NZSPQGFMS&no_recurring=0&currency_code=CAD
 
 # Feedback
