@@ -22,6 +22,7 @@
 - [x] Please leave **feedback with issues**
 - [x] **multitouch** support
 - [x] macOS 12 BT/Wifi
+- [x] Latest Release (2.1.6) Please Update if on 2.1.5.
 - [x] Updated for 12.3.1
 - Based on ***existing work done Matebook-X-Pro-2018 Profzei and 7 collabators. This repository continues the now **defunct** project as they no longer publish releases or update the project.
 - [x] Opencore **0.7.9**
