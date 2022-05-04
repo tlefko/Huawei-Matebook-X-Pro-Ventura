@@ -152,6 +152,7 @@
 - Original kext authors
 - ***Opencore Team***
 - Mald0n for ACPI help
+- Dortiana
 - ***Profzei Matebook X Pro - Many patches, parts of config, multitude of ACPI DSDTs and SSDTs. (@profzei). As well as useful information from his ReadMe***
 - Diliansky
 - ***OpenIntelWireless/Bluetool Project***
