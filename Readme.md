@@ -58,6 +58,7 @@
 # Next Release Goals
 - Further optimize XCPM and Battery Life. Potentially exploring CFG lock changes within the config.
 - Remove all contributions from Profzei
+- Futher disable PCI Device RP01 to fully disable DGPU further to save battery, check the beta file.
 
 ## Configuration
 
