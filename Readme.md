@@ -26,6 +26,7 @@
 - [x] Updated for 12.3.1
 - Based on ***existing work done Matebook-X-Pro-2018 Profzei and 7 collabators. This repository continues the now **defunct** project as they no longer publish releases or update the project.
 - [x] Opencore **0.7.9**
+- [x] This project will not support any EFI using profzei's configuration due to his defamatory claims and baseless allegations. Simply, such characters do not belong on an open source platform.
 #### This repository is currently compatible with macOS Monterey, Big Sur, and macOS Catalina 
 <div align="center">
 
