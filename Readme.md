@@ -67,7 +67,7 @@
 | Specifications      | Details                                          |
 | :--- | :--- |
 | Computer model      | Huawei Matebook X Pro 2018 Space Gray            |
-| Processor           | Intel Core i7-8650U         |
+| Processor           | Intel Core i7-8550U         |
 | Memory              | 16 GB LPDDR4 2133 MHz                             |
 | SSD           | LiteON SSD PCIe NVMe 512 GB [CA3-8D512]          |
 | Graphics | NVIDIA GeForce MX150 (Disabled) / Intel(R) UHD Graphics 620 |
