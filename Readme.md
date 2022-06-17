@@ -18,7 +18,8 @@
 
 # SPEAKERS
 - If you want to **avoid*** using a multi output device in audio settings, simply set the layout-id in the config.plist to 76. This removes the need for eqmac, soundflower, etc.
-
+# Update
+- Next update coming soon, fixes bluetooth issues, hibernate, headphonejack, etc
 # Version Info
 - This build is compatible up to Monterey 10.17 (macOS 12)
 - [x] Please leave **feedback with issues**
