@@ -20,11 +20,13 @@
 - If you want to **avoid*** using a multi output device in audio settings, simply set the layout-id in the config.plist to 76. This removes the need for eqmac, soundflower, etc.
 # Update
 - Next update coming soon, fixes bluetooth issues, hibernate, headphonejack, etc. Multiple patches
+- This version as Beta Support for the new macOS (macOS 13 Ventura)
 # Version Info
 - This build is compatible up to Monterey 10.17 (macOS 12)
 - [x] Please leave **feedback with issues**
 - [x] **multitouch** support
 - [x] macOS 12 BT/Wifi
+- [x] Fixed Headphone Jack
 - [x] Latest Release (2.1.6) Please Update if on 2.1.5.
 - [x] Updated for 12.3.1
 - Based on ***existing work done Matebook-X-Pro-2018 Profzei and 7 collabators. This repository continues the now **defunct** project as they no longer publish releases or update the project.
