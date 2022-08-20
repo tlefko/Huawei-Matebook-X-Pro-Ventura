@@ -6,7 +6,7 @@
 
 <img width="1500" alt="Screen Shot 2022-02-21 at 5 33 34 PM" src="https://user-images.githubusercontent.com/42879340/155034082-79d09280-2663-4a6f-848f-ab7294a399d9.png">
 
-  Huawei Matebook X Pro 2018 Running macOS Monterey
+  Huawei Matebook X Pro 2018 Running macOS Monterey/Ventura
 
 
 </div>
