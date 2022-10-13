@@ -15,20 +15,24 @@
 
  <img width="1500" alt="Screen Shot 2022-02-21 at 5 33 18 PM" src="https://user-images.githubusercontent.com/42879340/159208954-f5dc4c9e-908f-49c9-bbd8-b345a7dbff15.png"> MBXP with Neofetch Output
  </div>
+ 
+ # macOS 13
+ - [x] This is the first update to support macOS Ventura, there are no known bugs at the time but keep in mind this is beta. Please publish feedback within the comments.
 
 # SPEAKERS
 - If you want to **avoid*** using a multi output device in audio settings, simply set the layout-id in the config.plist to 76. This removes the need for eqmac, soundflower, etc.
 # Update
-- Next update coming soon, fixes bluetooth issues, hibernate, headphonejack, etc. Multiple patches
+- 
 - This version as Beta Support for the new macOS (macOS 13 Ventura)
 # Version Info
-- This build is compatible up to Monterey 10.17 (macOS 12)
+- [x] supports macOS Ventura
 - [x] Please leave **feedback with issues**
 - [x] **multitouch** support
 - [x] macOS 12 BT/Wifi
 - [x] Fixed Headphone Jack
 - [x] Latest Release (2.1.6) Please Update if on 2.1.5.
 - [x] Updated for 12.3.1
+- [x] fixed sound breaking on sleep
 - Based on ***existing work done Matebook-X-Pro-2018 Profzei and 7 collabators. This repository continues the now **defunct** project as they no longer publish releases or update the project.
 - [x] Opencore **0.7.9**
 - [x] This project will not support any EFI using profzei's configuration due to his defamatory claims and baseless allegations. Simply, such "open-source developers" do not belong on an open source platform. Collaboration is to be treated with respect, and to be appreciated. This repository only exists due to his inability to a) work for a resolution he found acceptable b) his repeated defamation c) his inability/decision to maintain his project.
