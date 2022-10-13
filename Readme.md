@@ -34,7 +34,7 @@
 - [x] Updated for 12.3.1
 - [x] fixed sound breaking on sleep
 - Based on ***existing work done Matebook-X-Pro-2018 Profzei and 7 collabators. This repository continues the now **defunct** project as they no longer publish releases or update the project.
-- [x] Opencore **0.7.9**
+- [x] Opencore **0.8.4**
 - [x] This project will not support any EFI using profzei's configuration due to his defamatory claims and baseless allegations. Simply, such "open-source developers" do not belong on an open source platform. Collaboration is to be treated with respect, and to be appreciated. This repository only exists due to his inability to a) work for a resolution he found acceptable b) his repeated defamation c) his inability/decision to maintain his project.
 #### This repository is currently compatible with macOS Monterey, Big Sur, and macOS Catalina 
 <div align="center">
