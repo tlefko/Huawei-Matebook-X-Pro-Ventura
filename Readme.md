@@ -172,6 +172,10 @@
  - Gnerate your own Serials, Board Numbers, MLB
  - There are various guides online to do this and as default they're set to essentially Null (Fakeserial)
  - This is fairly straightforward and there is lots of external recourses, or you can contact me for support.
+ 
+ # Post Install Script
+ - Run this command in termainl, credit @profzei for this script from his guide on his repository : ). This is the single best piece of code in the repository!
+ -  sh -c "$(curl -fsSL https://raw.githubusercontent.com/profzei/Matebook-X-Pro-2018/master/ALCPlugFix/one-key-alcplugfix.sh)"
 
  # Finished!
  - Congratulations, there really aren't any more steps that are required. *** Feel free to contact me with any questions. ***
