@@ -1,4 +1,4 @@
-# Matebook X Pro 2018 Monterey
+# Matebook X Pro 2018 Ventura
 
 
 <a href="https://consumer.huawei.com/it/support/laptops/matebook-x-pro/" target="_blank"><img src="https://img.shields.io/badge/BIOS-1.37-red.svg" /></a>
@@ -18,7 +18,7 @@
  
  # macOS 13
  - [x] This is the first update to support macOS Ventura, there are no known bugs at the time but keep in mind this is beta. Please publish feedback within the comments.
-
+ - [x] Now supports latest non-beta. Note still no working bluetooth.
 # SPEAKERS
 - If you want to **avoid*** using a multi output device in audio settings, simply set the layout-id in the config.plist to 76. This removes the need for eqmac, soundflower, etc.
 # Update
@@ -33,6 +33,7 @@
 - [x] Latest Release (2.1.6) Please Update if on 2.1.5.
 - [x] Updated for 12.3.1
 - [x] fixed sound breaking on sleep
+- [x] Supports Ventura Official Release
 - Based on ***existing work done Matebook-X-Pro-2018 Profzei and 7 collabators. This repository continues the now **defunct** project as they no longer publish releases or update the project.
 - [x] Opencore **0.8.4**
 - [x] This project will not support any EFI using profzei's configuration due to his defamatory claims and baseless allegations. Simply, such "open-source developers" do not belong on an open source platform. Collaboration is to be treated with respect, and to be appreciated. This repository only exists due to his inability to a) work for a resolution he found acceptable b) his repeated defamation c) his inability/decision to maintain his project.
