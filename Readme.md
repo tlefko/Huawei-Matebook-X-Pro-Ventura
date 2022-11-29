@@ -18,7 +18,7 @@
  
  # macOS 13
  - [x] This is the first update to support macOS Ventura, there are no known bugs at the time but keep in mind this is beta. Please publish feedback within the comments.
- - [x] Now supports latest non-beta. Note still no working bluetooth.
+ - [x] Now supports latest non-beta. 
 # SPEAKERS
 - If you want to **avoid*** using a multi output device in audio settings, simply set the layout-id in the config.plist to 76. This removes the need for eqmac, soundflower, etc.
 # Update
