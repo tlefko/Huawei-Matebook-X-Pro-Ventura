@@ -25,7 +25,7 @@
 # Update
 - Note: If having NVME Panics, disable NVMEFix in the OC Config File.
 - Note: Improved TBT System
-- Thanks to @0xTides, @Lukas, this repository now includes support for the MBXP**2019**.
+- Thanks to **@0xTides, @Lukas**, this repository now includes support for the **MBXP2019**.
 - This version as Beta Support for the new macOS (macOS 13 Ventura)
 # Version Info
 - [x] supports macOS Ventura
