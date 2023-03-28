@@ -23,7 +23,9 @@
 # SPEAKERS
 - If you want to **avoid*** using a multi output device in audio settings, simply set the layout-id in the config.plist to 76. This removes the need for eqmac, soundflower, etc.
 # Update
-- 
+- Note: If having NVME Panics, disable NVMEFix in the OC Config File.
+- Note: Improved TBT System
+- Thanks to @0xTides, @Lukas, this repository now includes support for the MBXP**2019**.
 - This version as Beta Support for the new macOS (macOS 13 Ventura)
 # Version Info
 - [x] supports macOS Ventura
@@ -91,11 +93,7 @@
 - Improved Preformance and ***Power Management***
 - Fixed Bluetooth failing to **inject/delaying** boot
 - Fixed Speakers requiring **multiple device** outputs 
-- - [ ] DISABLE OTHER WAKE UP SOURCES --- THIS WILL FIX ALL SLEEP ISSUES such as bluetooth not working after sleep, fans spinning during sleep. **THIS IS IN THE BIOS**
-- Please read the issues tab to fix apple music 
-# Description
-- This esentially an ***ultra-simplistic*** version that is stable without the use of a deploy or complicated file installations and copies.
-- You can easily view all the **SSDT patches along with configuration files*** for the bootloader as they are all ***documented clearly*** in the files.
+- - [ ] DISABLE OTHER WAKE UP SOURCES IN BIOS --- THIS WILL FIX ALL SLEEP ISSUES such as bluetooth not working after sleep, fans spinning during sleep. **THIS IS 
 
 # MLB and ROM / Serials
 - ***Please generate your own independent serial, MLB, ROM, and Board-ID.***
@@ -137,14 +135,6 @@
 - [x] `Main` -> `Advanced` -> `PXE Device Enable` -> **Disable**
 - [x] `Main` -> `Advanced` -> `Fingerprint Enable` -> **Disable**
 - [ ] DISABLE OTHER WAKE UP SOURCES --- THIS WILL FIX ALL SLEEP ISSUES (creds @doggie13 for discovery of sleep bug/solution testing). This **stops** passive battery drain from the fans spinning during sleep. Perhaps profzei wants credit here too.
-
-# Recommended: Clean Install (Preinstall steps)
-- Format a USB (16GB) as Journaled and then proceed to download the latest Catalina Installer Patcher Application
-- Download the latest Catalina installer from within the Patcher App, and select to download a new copy and install to your USB device
-- Download the clover configurator application and mount the EFI of the USB partition, then copy the contents of the Files linked above to A new EFI Folder (that you create) within the EFI partition.
-
-** This is because the App Store installers will often not download a full installer, just an truncated version that downloads the installer files from the interent while installing. Thus, they're not bootable from a USB as they're not complete. That is why you should use this method to make sure the installer is usable for bootable media. 
- 
  
 
 # Install Steps
@@ -170,11 +160,7 @@
 - Diliansky
 - ***OpenIntelWireless/Bluetool Project***
  
- # Messages and Facetime
- - Gnerate your own Serials, Board Numbers, MLB
- - There are various guides online to do this and as default they're set to essentially Null (Fakeserial)
- - This is fairly straightforward and there is lots of external recourses, or you can contact me for support.
- 
+
  # Post Install Script
  - Run this command in termainl, credit @profzei for this script from his guide on his repository : ). This is the single best piece of code in the repository!
  -  sh -c "$(curl -fsSL https://raw.githubusercontent.com/profzei/Matebook-X-Pro-2018/master/ALCPlugFix/one-key-alcplugfix.sh)"
