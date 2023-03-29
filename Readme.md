@@ -16,25 +16,13 @@
  <img width="1500" alt="Screen Shot 2022-02-21 at 5 33 18 PM" src="https://user-images.githubusercontent.com/42879340/159208954-f5dc4c9e-908f-49c9-bbd8-b345a7dbff15.png"> MBXP with Neofetch Output
  </div>
  
- # macOS 13
- - [x] This is the first update to support macOS Ventura, there are no known bugs at the time but keep in mind this is beta. Please publish feedback within the comments.
- - [PM]
- - [x] Now supports latest non-beta. 
-# SPEAKERS
-- If you want to **avoid*** using a multi output device in audio settings, simply set the layout-id in the config.plist to 76. This removes the need for eqmac, soundflower, etc.
+
 # Update
 - Note: If having NVME Panics, disable NVMEFix in the OC Config File.
 - Note: Improved TBT System
 - Thanks to **@0xTides, @Lukas**, this repository now includes support for the **MBXP2019**.
 - This version as Beta Support for the new macOS (macOS 13 Ventura)
 # Version Info
-- [x] supports macOS Ventura
-- [x] Please leave **feedback with issues**
-- [x] **multitouch** support
-- [x] macOS 12 BT/Wifi
-- [x] Fixed Headphone Jack
-- [x] Latest Release (2.1.6) Please Update if on 2.1.5.
-- [x] Updated for 12.3.1
 - [x] fixed sound breaking on sleep
 - [x] Supports Ventura Official Release
 - Based on ***existing work done Matebook-X-Pro-2018 Profzei and 7 collabators. This repository continues the now **defunct** project as they no longer publish releases or update the project.
@@ -70,6 +58,7 @@
 - Further optimize XCPM and Battery Life. Potentially exploring CFG lock changes within the config.
 - Remove all contributions from Profzei
 - Futher disable PCI Device RP01 to fully disable DGPU further to save battery, check the beta file.
+- Add Full Native Thunderbolt Support Detected by macOS
 
 ## Configuration
 
