@@ -16,6 +16,12 @@
  <img width="1500" alt="Screen Shot 2022-02-21 at 5 33 18 PM" src="https://user-images.githubusercontent.com/42879340/159208954-f5dc4c9e-908f-49c9-bbd8-b345a7dbff15.png"> MBXP with Neofetch Output
  </div>
  
+ # Donations
+ - Hey, to be honest guys I've been struggling recently to pay off some bills for school. Obviously no requirement, but donations would be really appreciated and helpful. 
+ 
+ - https://www.paypal.com/donate/?business=LG87NZSPQGFMS&no_recurring=0&currency_code=CAD
+
+ 
 
 # Update
 - Note: If having NVME Panics, disable NVMEFix in the OC Config File.
