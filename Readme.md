@@ -1,7 +1,3 @@
- # Donations
- - Hey, to be honest guys I've been struggling recently to pay off some bills for school. Obviously no requirement, but donations would be really appreciated and helpful. 
- 
- - https://www.paypal.com/donate/?business=LG87NZSPQGFMS&no_recurring=0&currency_code=CAD
 
 # Matebook X Pro 2018 Ventura
 
@@ -171,3 +167,7 @@
 
 # Feedback
 - Please open an issue to ***leave comments on the EFI*** as this is an ***alpha.***
+
+ # Donations
+
+ - https://www.paypal.com/donate/?business=LG87NZSPQGFMS&no_recurring=0&currency_code=CAD
