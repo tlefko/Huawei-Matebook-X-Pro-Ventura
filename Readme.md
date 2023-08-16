@@ -19,12 +19,7 @@
  
 
 # Next Release
--  Sorry for the inactivity, been working for school stuff.
--  I AM BACK BABY
--- Aiming to launch next update to support Ventura, and beta support for the new OS
--- Looking to resolve wifi, SSD issues within the next release
--- Still not sure how to create a bootable USB, I see this is a reoccuring issue. As I cannot recreate it, I am unsure how to solve it. I encourage you to isntall macOS using either the provided EFI, trying an earlier release, or another repo.
--- Trackpad issues have been resolved
+-  I am looking to begin testing of the latest betas of macOS into this machine. Ventura is very meh, and causes issues with kexts and permissions. please let me know any issues you have, be very specific, and i will address them now that i have returned haha
  
 
 # Update
