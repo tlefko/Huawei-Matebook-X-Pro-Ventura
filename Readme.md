@@ -20,6 +20,8 @@
 
 # Next Release
 -  I am looking to begin testing of the latest betas of macOS into this machine. Ventura is very meh, and causes issues with kexts and permissions. please let me know any issues you have, be very specific, and i will address them now that i have returned haha
+-  Begin testing for macOS sonoma
+-  Update CPU kexts
  
 
 # Update
