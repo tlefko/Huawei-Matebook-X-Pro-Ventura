@@ -37,6 +37,7 @@
 - [x] This project will not support any EFI using profzei's configuration due to his defamatory claims and baseless allegations. Simply, such "open-source developers" do not belong on an open source platform. Collaboration is to be treated with respect, and to be appreciated. This repository only exists due to his inability to a) work for a resolution he found acceptable b) his repeated defamation c) his inability/decision to maintain his project.
 #### This repository is currently compatible with macOS Monterey, Big Sur, and macOS Catalina 
 <div align="center">
+[x] releasing sonoma beta this week
 
 |     Monterey     |     macOS Big Sur      |     macOS Catalina     |       macOS Mojave       |
 | :--- | :--- | :--- | :--- |
