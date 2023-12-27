@@ -16,14 +16,24 @@
 
  <img width="1500" alt="Screen Shot 2022-02-21 at 5 33 18 PM" src="https://user-images.githubusercontent.com/42879340/159208954-f5dc4c9e-908f-49c9-bbd8-b345a7dbff15.png"> MBXP with Neofetch Output
  </div>
- 
+
+
+ # OTHER PROJECT please read :) 
+
+-- Hey guys, so I've been working on another project for the past year now with an automated indicator / trading robot for the stock and crypto market. I put a lot of time into this and would be honored if you guys checked it out, aims to mark tops and bottoms in real time
+
+-- Normally, it is subscription based but if you're coming from this project, completely free
+
+***https://github.com/tlefko/squirrel-bot-pro/***
+
+
 # NEWS / Town Hall Update
 
 -- I know I have gone completely AWOL again and I totally apolagize: i have let you guys down and I definitely didn't mean to be absent for this long. got so caught up in school and my own stuff just haven't had the time.
 
 -- I sincierely promise to get a new release out in the next month, feauturing macOS Sonoma. I know I promised this in the past, but this time it is for real.
 
-Love you guys
+
 
 
 # Next Release
