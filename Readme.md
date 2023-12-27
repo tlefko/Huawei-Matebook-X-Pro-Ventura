@@ -20,9 +20,9 @@
 
  # OTHER PROJECT please read :) 
 
--- Hey guys, so I've been working on another project for the past year now with an automated indicator / trading robot for the stock and crypto market. I put a lot of time into this and would be honored if you guys checked it out, aims to mark tops and bottoms in real time
+-- Hey guys, so I've been working on another project for the past year now with an automated indicator / trading robot for the stock and crypto market. I put a lot of time into this and would be honored if you guys checked it out, aims to mark tops and bottoms in real time. not 100% perfect but constantly working to improve
 
--- Normally, it is subscription based but if you're coming from this project, completely free
+-- Normally, it is subscription based but if you're coming from this project, completely free for you guys <3
 
 ***https://github.com/tlefko/squirrel-bot-pro/***
 
