@@ -26,6 +26,9 @@
 
 ***https://github.com/tlefko/squirrel-bot-pro/***
 
+***https://whop.com/squirrel-capital***
+
+
 
 # NEWS / Town Hall Update
 
