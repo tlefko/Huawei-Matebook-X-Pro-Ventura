@@ -29,25 +29,17 @@
 ***https://whop.com/squirrel-capital***
 
 
-
-# NEWS / Town Hall Update
-
--- I know I have gone completely AWOL again and I totally apolagize: i have let you guys down and I definitely didn't mean to be absent for this long. got so caught up in school and my own stuff just haven't had the time.
-
--- I sincierely promise to get a new release out in the next month, feauturing macOS Sonoma. I know I promised this in the past, but this time it is for real.
-
-
-
-
 # Next Release
 -  I am looking to begin testing of the latest betas of macOS into this machine. Ventura is very meh, and causes issues with kexts and permissions. please let me know any issues you have, be very specific, and i will address them now that i have returned haha
 -  Begin testing for macOS sonoma
 -  Update CPU kexts
- 
+
+
 
 # Update
 - Note: If having NVME Panics, disable NVMEFix in the OC Config File.
 - Note: Improved TBT System
+- Final Ventura Release
 - Thanks to **@0xTides, @Lukas**, this repository now includes support for the **MBXP2019**.
 - This version as Beta Support for the new macOS (macOS 13 Ventura)
 # Version Info
