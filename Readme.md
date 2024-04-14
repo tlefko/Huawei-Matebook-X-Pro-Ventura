@@ -180,7 +180,6 @@
 
 # Donations
 - ***Send me a coffee if you feel I helped you!***
-- https://www.paypal.com/donate/?business=LG87NZSPQGFMS&no_recurring=0&currency_code=CAD
-
+  ETH ERC20: 0xe572f7af70942F70806de92792A73B5679Ad5234
 # Feedback
 - Please open an issue to ***leave comments on the EFI*** as this is an ***alpha.***
