@@ -1,5 +1,9 @@
 
-# Matebook X Pro 2018 Ventura
+# Matebook X Pro 2018 Sonoma
+
+--> OFFICIALLY MOVING SUPPORT FOR MACOS SONOMA.
+
+NEW RELEASE IN 1-2 WEEKS. 
 
 
 <a href="https://consumer.huawei.com/it/support/laptops/matebook-x-pro/" target="_blank"><img src="https://img.shields.io/badge/BIOS-1.37-red.svg" /></a>
