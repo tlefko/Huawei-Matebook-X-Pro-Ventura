@@ -1,11 +1,6 @@
 
 # Matebook X Pro 2018 Sonoma
 
---> OFFICIALLY MOVING SUPPORT FOR MACOS SONOMA.
-
-NEW RELEASE IN 1-2 WEEKS. 
-
-
 <a href="https://consumer.huawei.com/it/support/laptops/matebook-x-pro/" target="_blank"><img src="https://img.shields.io/badge/BIOS-1.37-red.svg" /></a>
  <div align="center">
 
@@ -20,18 +15,6 @@ NEW RELEASE IN 1-2 WEEKS.
 
  <img width="1500" alt="Screen Shot 2022-02-21 at 5 33 18 PM" src="https://user-images.githubusercontent.com/42879340/159208954-f5dc4c9e-908f-49c9-bbd8-b345a7dbff15.png"> MBXP with Neofetch Output
  </div>
-
-
- # OTHER PROJECT please read :) 
-
--- Hey guys, so I've been working on another project for the past year now with an automated indicator / trading robot for the stock and crypto market. I put a lot of time into this and would be honored if you guys checked it out, aims to mark tops and bottoms in real time. not 100% perfect but constantly working to improve
-
--- Normally, it is subscription based but if you're coming from this project, completely free for you guys <3
-
-***https://github.com/tlefko/squirrel-bot-pro/***
-
-***https://whop.com/squirrel-capital***
-
 
 # Next Release
 -  I am looking to begin testing of the latest betas of macOS into this machine. Ventura is very meh, and causes issues with kexts and permissions. please let me know any issues you have, be very specific, and i will address them now that i have returned haha
